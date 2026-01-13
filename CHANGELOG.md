@@ -1,14 +1,22 @@
 # История изменений
 
+## 1.2.0 Loginom 7.3.1^
+
+### **Изменения**
+
+* Удален компонент **Парсинг JSON**
+* Компонент **[Парсинг JSON+](./docs/parsing-json.md)** переименован в **[Парсинг JSON](./docs/parsing-json-extended.md)**
+* Компонент **[Парсинг JSON](./docs/parsing-json.md)** обновлен
+
 ## 1.1.0 Loginom 7.2.3^
 
 ### **Новый функционал**
 
-* Компонент **[Парсинг JSON+](./docs/parsing-json-extended.md)**
+* Компонент **[Парсинг JSON+](./docs/parsing-json.md)**
 
 ### **Изменения**
 
-* Компонент **[Парсинг JSON](./docs/parsing-json.md)**
+* Компонент **Парсинг JSON**
 
 ## 1.0.1 Loginom 7.1.1^
 
@@ -24,5 +32,5 @@
 * Компонент **[Столбцы в JSON](./docs/cols-to-json.md)**
 * Компонент **[Добавление ключей](./docs/add-keys.md)**
 * Компонент **[Объединение JSON](./docs/union-json.md)**
-* Компонент **[Парсинг JSON](./docs/parsing-json.md)**
+* Компонент **Парсинг JSON**
 * Компонент **[Элементы массива JSON](./docs/array-items.md)**
